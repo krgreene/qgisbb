@@ -1,10 +1,10 @@
-title: Geo-informatics for Agriculture
+title: Introduction to GIS with QGIS
 description: Training manual
 theme: just-the-docs
 
-url: https://krgreene.github.io/geo-info
+url: https://krgreene.github.io/qgisbb
 
 aux_links:
-  Download as PDF: https://krgreene.github.io/geo-info/assets/files/dominica_gis_manual_2023.pdf
+  Download as PDF: https://krgreene.github.io/qgisbb/assets/files/dominica_gis_manual_2023.pdf
 
 favicon_ico: "/assets/gis_favicon.png"
